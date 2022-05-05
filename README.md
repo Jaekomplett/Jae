@@ -1,8 +1,6 @@
 # 프론트엔드 개발자 김제완입니다.
 <br />
 <div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaekomplett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <section>
   <h2> Tech Stack </h2>
