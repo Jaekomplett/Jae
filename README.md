@@ -1,5 +1,5 @@
 
-## 유저 인터페이스와 경험을 중시하고, 애니메이션 구현을 좋아
+## 유저 인터페이스와 경험을 중시하고, 애니메이션 구현을 좋아합니다.
 ### 🔧 Stack 
 - Programming Language :
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=sqaure&logo=Javascript&logoColor=white"/><br/>
