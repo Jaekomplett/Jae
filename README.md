@@ -29,4 +29,4 @@
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=sqaure&logo=NestJs&logoColor=white"/> 
     
 ### ✍️ Blog
-https://velog.io/@wanzekim
+- https://velog.io/@wanzekim
