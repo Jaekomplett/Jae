@@ -14,7 +14,6 @@
 - Back-end :
   <img src="https://img.shields.io/badge/Node.js-339933?style=sqaure&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=sqaure&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=sqaure&logo=MongoDB&logoColor=white"/>
 
 - DevOps :
   <img src="https://img.shields.io/badge/Linux-FCC624?style=sqaure&logo=Linux&logoColor=white"/>
